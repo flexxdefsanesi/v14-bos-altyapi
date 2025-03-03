@@ -1,0 +1,19 @@
+{
+  "name": "v14-bos-altyapi",
+  "version": "1.0.0",
+  "description": "DJS V14 ile kodlanmış boş bot altyapısı.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Clyde",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^11.2.1",
+    "buzdolabi": "^1.0.1",
+    "discord.js": "^14.15.3",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "tdk-sozluk": "^2.0.0"
+  }
+}
